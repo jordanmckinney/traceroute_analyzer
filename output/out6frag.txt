@@ -1,0 +1,121 @@
+The IP address of the source node: 192.168.0.108
+The IP address of the ultimate destination: 4.2.2.2
+
+The IP addresses of the intermediate destination nodes:
+	router 1:	142.104.69.243, 
+	router 2:	142.104.68.1, 
+	router 3:	192.168.9.5, 
+	router 4:	192.168.10.1, 
+	router 5:	NO REPLY
+	router 6:	NO REPLY
+	router 7:	142.104.252.246, 
+	router 8:	142.104.250.37, 
+	router 9:	207.23.241.221, 
+	router 10:	67.69.244.53, 
+	router 11:	64.230.122.248, 
+	router 12:	64.230.77.230, 64.230.77.228, 
+	router 13:	64.230.79.98, 
+	router 14:	64.230.125.233, 64.230.125.231, 
+	router 15:	4.71.152.53, 
+	router 16:	4.69.152.15, 
+
+The values in the protocol field of IP headers:
+	1: ICMP
+	17: UDP
+
+TTL | Datagram ID | # Fragments | Offset of last fragment
+---------------------------------------------------------
+ 1		21908			2				1480
+ 1		21909			2				1480
+ 1		21910			2				1480
+ 2		21911			2				1480
+ 2		21912			2				1480
+ 2		21913			2				1480
+ 3		21914			2				1480
+ 3		21915			2				1480
+ 3		21916			2				1480
+ 4		21917			2				1480
+ 4		21918			2				1480
+ 4		21919			2				1480
+ 5		21920			2				1480
+ 5		21921			2				1480
+ 5		21922			2				1480
+ 6		21923			2				1480
+ 6		21924			2				1480
+ 6		21927			2				1480
+ 7		21928			2				1480
+ 7		21929			2				1480
+ 7		21930			2				1480
+ 8		21931			2				1480
+ 8		21932			2				1480
+ 8		21933			2				1480
+ 9		21934			2				1480
+ 9		21935			2				1480
+ 9		21938			2				1480
+ 10		21939			2				1480
+ 10		21940			2				1480
+ 10		21941			2				1480
+ 11		21942			2				1480
+ 11		21943			2				1480
+ 11		21944			2				1480
+ 12		21945			2				1480
+ 12		21946			2				1480
+ 12		21948			2				1480
+ 13		21949			2				1480
+ 13		21950			2				1480
+ 13		21951			2				1480
+ 14		21953			2				1480
+ 14		21954			2				1480
+ 14		21955			2				1480
+ 15		21956			2				1480
+ 15		21957			2				1480
+ 15		21958			2				1480
+ 16		21959			2				1480
+ 16		21961			2				1480
+ 16		21962			2				1480
+ 17		21963			2				1480
+ 17		21966			2				1480
+ 17		21969			2				1480
+
+RTT Statistics:
+
+1:	The avg RTT between 192.168.0.108 and 142.104.69.243 is 6.29 ms, the s.d is: 3.41 ms
+2:	The avg RTT between 192.168.0.108 and 142.104.68.1 is 11.74 ms, the s.d is: 0.14 ms
+3:	The avg RTT between 192.168.0.108 and 192.168.9.5 is 12.26 ms, the s.d is: 0.14 ms
+4:	The avg RTT between 192.168.0.108 and 192.168.10.1 is 13.25 ms, the s.d is: 0.00 ms
+5:	NO REPLY
+6:	NO REPLY
+7:	The avg RTT between 192.168.0.108 and 142.104.252.246 is 8.13 ms, the s.d is: 0.11 ms
+8:	The avg RTT between 192.168.0.108 and 142.104.250.37 is 10.12 ms, the s.d is: 0.02 ms
+9:	The avg RTT between 192.168.0.108 and 207.23.241.221 is 36.95 ms, the s.d is: 3.08 ms
+10:	The avg RTT between 192.168.0.108 and 67.69.244.53 is 7.55 ms, the s.d is: 0.76 ms
+11:	The avg RTT between 192.168.0.108 and 64.230.122.248 is 9.25 ms, the s.d is: 0.26 ms
+12:	The avg RTT between 192.168.0.108 and 64.230.77.230 is 9.97 ms, the s.d is: 0.00 ms
+	The avg RTT between 192.168.0.108 and 64.230.77.228 is 10.33 ms, the s.d is: 1.03 ms
+13:	The avg RTT between 192.168.0.108 and 64.230.79.98 is 10.26 ms, the s.d is: 0.63 ms
+14:	The avg RTT between 192.168.0.108 and 64.230.125.233 is 12.49 ms, the s.d is: 0.00 ms
+	The avg RTT between 192.168.0.108 and 64.230.125.231 is 12.72 ms, the s.d is: 0.04 ms
+15:	The avg RTT between 192.168.0.108 and 4.71.152.53 is 85.07 ms, the s.d is: 0.18 ms
+16:	The avg RTT between 192.168.0.108 and 4.69.152.15 is 20.44 ms, the s.d is: 0.64 ms
+17:	The avg RTT between 192.168.0.108 and 4.2.2.2 is 19.26 ms, the s.d is: 0.84 ms
+
+TTL | # probes sent
+-------------------
+
+ 1		3
+ 2		3
+ 3		3
+ 4		3
+ 5		3
+ 6		3
+ 7		3
+ 8		3
+ 9		3
+ 10		3
+ 11		3
+ 12		3
+ 13		3
+ 14		3
+ 15		3
+ 16		3
+ 17		3
